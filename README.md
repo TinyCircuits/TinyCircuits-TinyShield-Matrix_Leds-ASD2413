@@ -5,7 +5,7 @@ These are the design files for the TinyCircuits ASD2413 Rev 1 PCB.  This is a Ti
 
 Format is in Cadsoft Eagle format - Eagle version 6.2 was used for the original design.
 
-For more infomation on this, check out the product page at Tiny-Circuits.com:  http://tiny-circuits.com/shop/tinyshield-matrix-leds/
+For more infomation on this, check out the product page at Tiny-Circuits.com:  https://tiny-circuits.com/tiny-shield-matrix-led.html
 
 
 
