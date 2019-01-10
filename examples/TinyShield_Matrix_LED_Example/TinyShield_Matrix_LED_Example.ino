@@ -1,5 +1,5 @@
 /*
-  LED Matrix Example Sketch
+  Matrix LED TinyShield Example Sketch
   
   This example illuminates one LED at a time,
   iterating through each LED in the matrix.
