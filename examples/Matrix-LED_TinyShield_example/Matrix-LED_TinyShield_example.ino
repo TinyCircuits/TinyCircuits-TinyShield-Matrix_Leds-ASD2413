@@ -1,5 +1,5 @@
 /*
-  Matrix LED TinyShield Example Sketch
+  TinyDuino Matrix LED TinyShield Example Sketch
   
   This example illuminates one LED at a time,
   iterating through each LED in the matrix.
@@ -61,4 +61,3 @@ void lightLED(int ledNum) { //sets the specified LED on (0-53)
   pinMode(highpin[ledNum],OUTPUT);
   pinMode(lowpin[ledNum],OUTPUT);
 }
-
