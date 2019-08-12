@@ -37,7 +37,7 @@
     };
 */
 
-#include "Charlieplexing.h"
+#include "Charliplexing.h"
 #include "Font.h"
 #include "Arduino.h"
 
